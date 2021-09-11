@@ -2,10 +2,12 @@
 Calories burnt prediction using Machine Learning with Python. 
 
 
-![image](https://user-images.githubusercontent.com/76562485/132940730-2c653ecd-140b-46b8-9106-96cbf102502c.png)                 ![image](https://user-images.githubusercontent.com/76562485/132940817-efdb6fa5-d0f8-4e86-899e-2360814b4c50.png)
+![image](https://user-images.githubusercontent.com/76562485/132940730-2c653ecd-140b-46b8-9106-96cbf102502c.png)                                ![image](https://user-images.githubusercontent.com/76562485/132940817-efdb6fa5-d0f8-4e86-899e-2360814b4c50.png)
+
+ ![image](https://user-images.githubusercontent.com/76562485/132941082-a3ed8983-5319-41a3-9525-3ab76582a69b.png)
 
 
-![image](https://user-images.githubusercontent.com/76562485/132940721-ef19b407-56b4-4591-841c-d7e40226c131.png)                    ![image](https://user-images.githubusercontent.com/76562485/132940775-6e6fd452-f266-4d2c-814e-9adf94fbfa6a.png)
+![image](https://user-images.githubusercontent.com/76562485/132940721-ef19b407-56b4-4591-841c-d7e40226c131.png)                                   ![image](https://user-images.githubusercontent.com/76562485/132940775-6e6fd452-f266-4d2c-814e-9adf94fbfa6a.png)
 
  
 ## Abstract :
